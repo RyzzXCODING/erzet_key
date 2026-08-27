@@ -28,5 +28,5 @@ jobs:
     - name: Run Bot
       env:
         BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-        GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+        SERVER_TOKEN: ${{ secrets.SERVER_TOKEN }}  # Ganti GITHUB_TOKEN jadi SERVER_TOKEN
       run: python bot.py
