@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "bot_name": "ErZet Key Manager",
+    "owner": "ErZet",
+    "keys": {
+        "VIP-USER-001": {
+            "expiry": "2026-09-03T08:04:19",
+            "active": true,
+            "device": null,
+            "created": "2026-08-27T08:04:19"
+        }
+    }
+}
